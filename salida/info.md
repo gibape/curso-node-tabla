@@ -1,0 +1,3 @@
+#informacion
+
+// salida de archivos.
